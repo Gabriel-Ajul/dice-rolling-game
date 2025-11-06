@@ -19,4 +19,4 @@ The format follows [Keep a Changelog](https://keepchangelog.com/en/1.0.0/).
 
 # v0.1 Demo GIF
 
-![Program Demo](images/.gif)
+![Program Demo](images/dicerollingdemo1.gif)
