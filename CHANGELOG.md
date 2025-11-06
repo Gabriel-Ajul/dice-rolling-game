@@ -6,7 +6,7 @@ The format follows [Keep a Changelog](https://keepchangelog.com/en/1.0.0/).
 
 ----------------------------------------------------------------
 
-## [v0.1] - 2025-11-
+## [v0.1] - 2025-11-06
 ### Added
 - Range limitation for die roll value from 1 - 6 
 - Simple roll choice "Y/N" function
